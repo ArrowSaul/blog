@@ -11,8 +11,8 @@ const config: Config = {
   title: 'ArrowSaul',
   url: 'https://kuizuo.cn',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
-  organizationName: 'kuizuo',
+  favicon: 'img/shuo.ico',
+  organizationName: 'ArrowSaul',
   projectName: 'blog',
   customFields: {
     bio: '道阻且长，行则将至',
